@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Inteligencia artificial - Keruanima</title>
+	<atom:link href="/category/inteligencia-artificial/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Creativo y diseñador digital</description>
+	<lastBuildDate>Wed, 21 Feb 2024 09:35:32 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2022/08/cropped-CompressJPEG.online_512x512-image-32x32.png</url>
+	<title>Inteligencia artificial - Keruanima</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">192130300</site>	<item>
+		<title>La ética de las IAs en el arte</title>
+		<link>/opinion-y-critica/la-etica-de-las-ias-en-el-arte/</link>
+					<comments>/opinion-y-critica/la-etica-de-las-ias-en-el-arte/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubDate>Thu, 17 Aug 2023 17:48:00 +0000</pubDate>
+				<category><![CDATA[Inteligencia artificial]]></category>
+		<category><![CDATA[opinión y crítica]]></category>
+		<category><![CDATA[IA]]></category>
+		<category><![CDATA[openAI]]></category>
+		<category><![CDATA[stable diffusion]]></category>
+		<guid isPermaLink="false">/?p=3267</guid>
+
+					<description><![CDATA[<p>Existe en la actualidad una discusión candente entre los artistas que ven amenazado su sector por culpa de estas inteligencias artificiales y los defensores que ven este avance tecnológico como una herramienta que da alas a su creatividad y a la creación de obras impresionantes sin tener la habilidad o recursos humanos necesarios para hacer [&#8230;]</p>
+La entrada <a href="/opinion-y-critica/la-etica-de-las-ias-en-el-arte/">La ética de las IAs en el arte</a> se publicó primero en <a href="/">Keruanima</a>.]]></description>
+		
+					<wfw:commentRss>/opinion-y-critica/la-etica-de-las-ias-en-el-arte/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3267</post-id>	</item>
+		<item>
+		<title>El megapost de las IA para creativos</title>
+		<link>/diseno/el-megapost-de-las-ia-para-creativos/</link>
+					<comments>/diseno/el-megapost-de-las-ia-para-creativos/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubDate>Thu, 20 Jul 2023 09:28:11 +0000</pubDate>
+				<category><![CDATA[diseño]]></category>
+		<category><![CDATA[Inteligencia artificial]]></category>
+		<guid isPermaLink="false">/?p=2460</guid>
+
+					<description><![CDATA[<p>selección de IA que prometen ser útiles para agilizar procesos creativos y de diseño o ayudar en ellos.</p>
+La entrada <a href="/diseno/el-megapost-de-las-ia-para-creativos/">El megapost de las IA para creativos</a> se publicó primero en <a href="/">Keruanima</a>.]]></description>
+		
+					<wfw:commentRss>/diseno/el-megapost-de-las-ia-para-creativos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2460</post-id>	</item>
+		<item>
+		<title>Open AI chat revoluciona la inteligencia artifical</title>
+		<link>/ultimas-entradas/open-ai-chat-revoluciona-la-inteligencia-artifical/</link>
+					<comments>/ultimas-entradas/open-ai-chat-revoluciona-la-inteligencia-artifical/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubDate>Sat, 10 Dec 2022 15:52:24 +0000</pubDate>
+				<category><![CDATA[Inteligencia artificial]]></category>
+		<category><![CDATA[opinión y crítica]]></category>
+		<category><![CDATA[Últimas entradas]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[automatización]]></category>
+		<category><![CDATA[chat GPT]]></category>
+		<category><![CDATA[creatividad]]></category>
+		<category><![CDATA[crítica]]></category>
+		<category><![CDATA[IA]]></category>
+		<category><![CDATA[inteligencia artifical]]></category>
+		<category><![CDATA[openAI]]></category>
+		<category><![CDATA[opinión]]></category>
+		<category><![CDATA[recomendaciones]]></category>
+		<guid isPermaLink="false">/?p=1805</guid>
+
+					<description><![CDATA[<p>en este post te explico por qué chat GPT de OpenAI es una nueva inteligencia artificial que te va a cambiar la vida.</p>
+La entrada <a href="/ultimas-entradas/open-ai-chat-revoluciona-la-inteligencia-artifical/">Open AI chat revoluciona la inteligencia artifical</a> se publicó primero en <a href="/">Keruanima</a>.]]></description>
+		
+					<wfw:commentRss>/ultimas-entradas/open-ai-chat-revoluciona-la-inteligencia-artifical/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1805</post-id>	</item>
+		<item>
+		<title>Las limitaciones de DALL·E y otras IAs creativas</title>
+		<link>/diseno/las-limitaciones-de-dall%c2%b7e-y-otras-ias-creativas/</link>
+					<comments>/diseno/las-limitaciones-de-dall%c2%b7e-y-otras-ias-creativas/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubDate>Thu, 08 Sep 2022 07:16:39 +0000</pubDate>
+				<category><![CDATA[diseño]]></category>
+		<category><![CDATA[Inteligencia artificial]]></category>
+		<category><![CDATA[opinión y crítica]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[arte]]></category>
+		<category><![CDATA[DALL·E]]></category>
+		<category><![CDATA[diseño de imágenes]]></category>
+		<category><![CDATA[IA]]></category>
+		<category><![CDATA[inteligencia artifical]]></category>
+		<category><![CDATA[redes neuronales]]></category>
+		<guid isPermaLink="false">/?p=1334</guid>
+
+					<description><![CDATA[<p>Recientemente, OpenAI me invito a probar su inteligencia artificial DALL·E con la que se pueden generar imágenes que nunca antes han existido simplemente dando indicaciones como si estuvieses haciendo una búsqueda en Google imágenes o explicando a un diseñador lo que quieres. Mi interes como diseñador y artista digital era saber hasta que punto esta [&#8230;]</p>
+La entrada <a href="/diseno/las-limitaciones-de-dall%c2%b7e-y-otras-ias-creativas/">Las limitaciones de DALL·E y otras IAs creativas</a> se publicó primero en <a href="/">Keruanima</a>.]]></description>
+		
+					<wfw:commentRss>/diseno/las-limitaciones-de-dall%c2%b7e-y-otras-ias-creativas/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1334</post-id>	</item>
+	</channel>
+</rss>

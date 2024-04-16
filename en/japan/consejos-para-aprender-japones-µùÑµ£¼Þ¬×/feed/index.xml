@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Consejos para aprender Japones 日本語	</title>
+	<atom:link href="/en/japan/consejos-para-aprender-japones-%E6%97%A5%E6%9C%AC%E8%AA%9E/feed/" rel="self" type="application/rss+xml" />
+	<link>/en/japan/consejos-para-aprender-japones-%e6%97%a5%e6%9c%ac%e8%aa%9e/</link>
+	<description>Creativo y diseñador digital</description>
+	<lastbuilddate>Fri, 26 Aug 2022 07:42:22 +0000</lastbuilddate>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
+	
+</channel>
+</rss>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Mis Proyectos - Keruanima</title>
+	<atom:link href="/category/mis-proyectos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Creativo y diseñador digital</description>
+	<lastBuildDate>Tue, 23 Aug 2022 09:52:35 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2022/08/cropped-CompressJPEG.online_512x512-image-32x32.png</url>
+	<title>Mis Proyectos - Keruanima</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">192130300</site>	<item>
+		<title>caso de estudio: la re-adaptación de tu imagen corporativa</title>
+		<link>/mis-proyectos/caso-de-estudio-la-re-adaptacion-de-tu-imagen-corporativa/</link>
+					<comments>/mis-proyectos/caso-de-estudio-la-re-adaptacion-de-tu-imagen-corporativa/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubDate>Thu, 09 Jun 2022 07:11:19 +0000</pubDate>
+				<category><![CDATA[diseño]]></category>
+		<category><![CDATA[marketing digital]]></category>
+		<category><![CDATA[Mis Proyectos]]></category>
+		<category><![CDATA[creatividad]]></category>
+		<category><![CDATA[keruanima]]></category>
+		<category><![CDATA[logos]]></category>
+		<guid isPermaLink="false">/?p=790</guid>
+
+					<description><![CDATA[<p>Hola de nuevo, en esta entrada quiero, de manera condensada, relatar el proceso por el cual pasé para realizar un lavado de cara y revitalizar mi Isotipo y mi imagen corporativa en general. El problema La idea surgió porque cada vez que veía mi logo no podía dejar de pensar que a pesar que básicamente [&#8230;]</p>
+La entrada <a href="/mis-proyectos/caso-de-estudio-la-re-adaptacion-de-tu-imagen-corporativa/">caso de estudio: la re-adaptación de tu imagen corporativa</a> se publicó primero en <a href="/">Keruanima</a>.]]></description>
+		
+					<wfw:commentRss>/mis-proyectos/caso-de-estudio-la-re-adaptacion-de-tu-imagen-corporativa/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">790</post-id>	</item>
+		<item>
+		<title>¿estás bien informado? (coronavirus minigame-quiz)</title>
+		<link>/mis-proyectos/estas-bien-informado-coronavirus-minigame-quiz/</link>
+					<comments>/mis-proyectos/estas-bien-informado-coronavirus-minigame-quiz/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2020 14:26:54 +0000</pubDate>
+				<category><![CDATA[Mis Proyectos]]></category>
+		<category><![CDATA[Últimas entradas]]></category>
+		<category><![CDATA[coronavirus]]></category>
+		<category><![CDATA[desarrollo personal]]></category>
+		<category><![CDATA[unity]]></category>
+		<category><![CDATA[videojuegos]]></category>
+		<guid isPermaLink="false">/?p=387</guid>
+
+					<description><![CDATA[<p>Bueno no voy a extenderme mucho aquí, no hace mucho que empezó la semana de confinamiento para evitar la propagación. Estoy concienciado, como lo están muchos, de que es importante permanecer en casa para evitar la propagación y el contagio, sobre todo por los grupos que sufren mayor riesgo con este virus. En esta primera [&#8230;]</p>
+La entrada <a href="/mis-proyectos/estas-bien-informado-coronavirus-minigame-quiz/">¿estás bien informado? (coronavirus minigame-quiz)</a> se publicó primero en <a href="/">Keruanima</a>.]]></description>
+		
+					<wfw:commentRss>/mis-proyectos/estas-bien-informado-coronavirus-minigame-quiz/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">387</post-id>	</item>
+		<item>
+		<title>Fingers vs Zombies, historia de un desarrollo en solitario.</title>
+		<link>/mis-proyectos/fingers-vs-zombies-historia-de-un-desarrollo-en-solitario/</link>
+					<comments>/mis-proyectos/fingers-vs-zombies-historia-de-un-desarrollo-en-solitario/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubDate>Wed, 06 Dec 2017 09:30:22 +0000</pubDate>
+				<category><![CDATA[Mis Proyectos]]></category>
+		<category><![CDATA[videojuegos]]></category>
+		<category><![CDATA[desarrollo]]></category>
+		<category><![CDATA[lowpoly]]></category>
+		<category><![CDATA[modelado 3D]]></category>
+		<category><![CDATA[unity]]></category>
+		<guid isPermaLink="false">/?p=156</guid>
+
+					<description><![CDATA[<p>Hola, esta entrada quiere resumir mi experiencia en el reto que me autoimpuse de realizar un juego original para android en el menor tiempo posible. El objetivo inicial era realizar en una semana pero al final tuve que usar cerca de 3 semanas para acabarlo principalmente debido a cambios que quise introducir en la dificultad, [&#8230;]</p>
+La entrada <a href="/mis-proyectos/fingers-vs-zombies-historia-de-un-desarrollo-en-solitario/">Fingers vs Zombies, historia de un desarrollo en solitario.</a> se publicó primero en <a href="/">Keruanima</a>.]]></description>
+		
+					<wfw:commentRss>/mis-proyectos/fingers-vs-zombies-historia-de-un-desarrollo-en-solitario/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">156</post-id>	</item>
+	</channel>
+</rss>

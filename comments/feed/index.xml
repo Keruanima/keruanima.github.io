@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentarios en Keruanima	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Creativo y diseñador digital</description>
+	<lastBuildDate>Sun, 01 Oct 2023 02:54:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		Comentario en Tipos de artículos en internet por whoiscall		</title>
+		<link>/marketing-digital/tipos-de-articulos-en-internet/#comment-4</link>
+
+		<dc:creator><![CDATA[whoiscall]]></dc:creator>
+		<pubDate>Sun, 01 Oct 2023 02:54:33 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2261#comment-4</guid>
+
+					<description><![CDATA[Thx]]></description>
+			<content:encoded><![CDATA[<p>Thx</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

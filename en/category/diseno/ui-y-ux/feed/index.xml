@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>UI y UX - Keruanima</title>
+	<atom:link href="/en/category/diseno/ui-y-ux/feed/" rel="self" type="application/rss+xml" />
+	<link>/en</link>
+	<description>Creativo y diseñador digital</description>
+	<lastbuilddate>Thu, 13 Jul 2023 13:45:17 +0000</lastbuilddate>
+	<language>en-GB</language>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2022/08/cropped-CompressJPEG.online_512x512-image-32x32.png</url>
+	<title>UI y UX - Keruanima</title>
+	<link>/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">192130300</site>	<item>
+		<title>caso de éxito: Genomepleio</title>
+		<link>/en/diseno/diseno-web/caso-de-exito-genomepleio/</link>
+					<comments>/en/diseno/diseno-web/caso-de-exito-genomepleio/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubdate>Thu, 13 Jul 2023 12:26:40 +0000</pubdate>
+				<category><![CDATA[diseño]]></category>
+		<category><![CDATA[diseño web]]></category>
+		<category><![CDATA[UI y UX]]></category>
+		<category><![CDATA[caso de uso]]></category>
+		<category><![CDATA[portfolio]]></category>
+		<guid ispermalink="false">/?p=3143</guid>
+
+					<description><![CDATA[<div class="passster-form" id="ps-448">
+<form class="password-form" method="post" autocomplete="off" target="_top">
+<h4>Área protegida</h4>
+<p>Este contenido está protegido por contraseña. Por favor, introduce una contraseña para desbloquear el contenido.</p>
+<fieldset>
+            <span class="ps-loader"><img src="/wp-content/plugins/content-protector/assets/public/ps-loader.svg"/></span><br />
+            <label for="passster_password" style="display:none;">Enter your password</label><br />
+            <input placeholder="Introduce tu contraseña." type="password" tabindex="1" name="passster_password"
+                   id="passster_password" class="passster-password" autocomplete="off"
+                   data-protection-type="password" data-list="[PASSSTER_LIST]" data-lists="[PASSSTER_LISTS]" data-area="[PASSSTER_AREA]"
+                   data-protection="full"></p>
+<p>            <button name="submit" type="submit" class="passster-submit" data-psid="ps-448" 
+                    data-submit="...Checking Password" data-redirect="">Unlock<br />
+            </button></p>
+<div class="passster-error"></div>
+</fieldset></form>
+</div>
+La entrada <a href="/en/diseno/diseno-web/caso-de-exito-genomepleio/">caso de éxito: Genomepleio</a> se publicó primero en <a href="/en">Keruanima</a>.]]></description>
+		
+					<wfw:commentrss>/en/diseno/diseno-web/caso-de-exito-genomepleio/feed/</wfw:commentrss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3143</post-id>	</item>
+		<item>
+		<title>Mejora la Experiencia del Usuario: Diseño UX en un Megapost</title>
+		<link>/en/diseno/mejora-la-experiencia-del-usuario-diseno-ux-en-un-megapost/</link>
+					<comments>/en/diseno/mejora-la-experiencia-del-usuario-diseno-ux-en-un-megapost/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubdate>Thu, 27 Apr 2023 17:50:00 +0000</pubdate>
+				<category><![CDATA[diseño]]></category>
+		<category><![CDATA[UI y UX]]></category>
+		<category><![CDATA[ui/ux]]></category>
+		<guid ispermalink="false">/?p=2644</guid>
+
+					<description><![CDATA[<p>¡Descubre los secretos de un diseño de interfaz y experiencia de usuario exitoso en mi guía completa de diseño UX! En este megapost, te ofrezco una visión general del diseño UX, desde los beneficios de una buena experiencia de usuario hasta las metodologías clave como Lean UX, Design Thinking y Agile. Exploraremos la importancia de la empatía en el diseño de experiencia de usuario, el ciclo del diseño UX y cómo involucrar a todo el equipo en el proceso. También cubriremos temas como el diseño de interacción, la teoría de la decisión consciente, la arquitectura de la información y la accesibilidad. Además, te brindaré herramientas populares como Adobe Xd, Sketch y Figma para el diseño de interfaces y diagramas de flujo. También abordaré el prototipado, la evaluación y la medición digital, incluyendo las reglas heurísticas de Jakob Nielsen y el método PURE de Norman Nielsen. Finalmente, ofreceré conclusiones y recomendaciones para un diseño UX efectivo. ¡No te pierdas esta guía definitiva para diseñadores!</p>
+La entrada <a href="/en/diseno/mejora-la-experiencia-del-usuario-diseno-ux-en-un-megapost/">Mejora la Experiencia del Usuario: Diseño UX en un Megapost</a> se publicó primero en <a href="/en">Keruanima</a>.]]></description>
+		
+					<wfw:commentrss>/en/diseno/mejora-la-experiencia-del-usuario-diseno-ux-en-un-megapost/feed/</wfw:commentrss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2644</post-id>	</item>
+		<item>
+		<title>7 impresionantes estilos de diseño de interfaz de usuario que debes conocer en el 2023</title>
+		<link>/en/diseno/diseno-web/7-impresionantes-estilos-de-diseno-de-interfaz-de-usuario-que-debes-conocer-en-el-2023/</link>
+					<comments>/en/diseno/diseno-web/7-impresionantes-estilos-de-diseno-de-interfaz-de-usuario-que-debes-conocer-en-el-2023/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubdate>Mon, 17 Apr 2023 18:56:00 +0000</pubdate>
+				<category><![CDATA[diseño]]></category>
+		<category><![CDATA[diseño web]]></category>
+		<category><![CDATA[UI y UX]]></category>
+		<guid ispermalink="false">/?p=2661</guid>
+
+					<description><![CDATA[<p>Hace poco en un proyecto un compañero me comento que para su proyecto habían estado usando el glasmorfismo como base para el diseño de una aplicación web, el caso es que estoy acostumbrado a dejarme llevar a la hora de hacer diseños y no encerrarme en estilos definidos si no más bien en referencias que [&#8230;]</p>
+La entrada <a href="/en/diseno/diseno-web/7-impresionantes-estilos-de-diseno-de-interfaz-de-usuario-que-debes-conocer-en-el-2023/">7 impresionantes estilos de diseño de interfaz de usuario que debes conocer en el 2023</a> se publicó primero en <a href="/en">Keruanima</a>.]]></description>
+		
+					<wfw:commentrss>/en/diseno/diseno-web/7-impresionantes-estilos-de-diseno-de-interfaz-de-usuario-que-debes-conocer-en-el-2023/feed/</wfw:commentrss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2661</post-id>	</item>
+		<item>
+		<title>W3C y los estándares de accesibilidad AA</title>
+		<link>/en/diseno/diseno-web/w3c-accesibilidad-aa/</link>
+					<comments>/en/diseno/diseno-web/w3c-accesibilidad-aa/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubdate>Tue, 27 Dec 2022 09:04:18 +0000</pubdate>
+				<category><![CDATA[diseño]]></category>
+		<category><![CDATA[diseño web]]></category>
+		<category><![CDATA[UI y UX]]></category>
+		<category><![CDATA[accesibilidad]]></category>
+		<category><![CDATA[consejos]]></category>
+		<category><![CDATA[creatividad]]></category>
+		<category><![CDATA[esperiencia de usuario]]></category>
+		<category><![CDATA[recomendaciones]]></category>
+		<category><![CDATA[UX]]></category>
+		<guid ispermalink="false">/?p=2229</guid>
+
+					<description><![CDATA[<p>introducción Hoy traigo un tema que debería tomarse muy en serio en todos los diseños web, porque todo el mundo debería tener la posibilidad de visitar una página web independientemente de sus discapacidades o condición. Hoy hablaremos de accesibilidad y como se mejora un diseño para web o app, también os daré algunos truquis o [&#8230;]</p>
+La entrada <a href="/en/diseno/diseno-web/w3c-accesibilidad-aa/">W3C y los estándares de accesibilidad AA</a> se publicó primero en <a href="/en">Keruanima</a>.]]></description>
+		
+					<wfw:commentrss>/en/diseno/diseno-web/w3c-accesibilidad-aa/feed/</wfw:commentrss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2229</post-id>	</item>
+		<item>
+		<title>Tipos de tamaños de fuente en web y por qué usar REM</title>
+		<link>/en/diseno/diseno-web/tipos-de-tamanos-de-fuente-en-web-y-por-que-usar-rem/</link>
+					<comments>/en/diseno/diseno-web/tipos-de-tamanos-de-fuente-en-web-y-por-que-usar-rem/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubdate>Tue, 20 Dec 2022 10:14:30 +0000</pubdate>
+				<category><![CDATA[diseño]]></category>
+		<category><![CDATA[diseño web]]></category>
+		<category><![CDATA[UI y UX]]></category>
+		<category><![CDATA[diseño ux]]></category>
+		<category><![CDATA[em]]></category>
+		<category><![CDATA[recomendaciones]]></category>
+		<category><![CDATA[rem]]></category>
+		<category><![CDATA[rem o em]]></category>
+		<category><![CDATA[tamaño de letra]]></category>
+		<category><![CDATA[tamaños de fuente]]></category>
+		<category><![CDATA[ui/ux]]></category>
+		<category><![CDATA[unidades de medida]]></category>
+		<guid ispermalink="false">/?p=2219</guid>
+
+					<description><![CDATA[<p>En diseño web, hay varias unidades de medida que se pueden utilizar para especificar el tamaño de fuente de un elemento. Aquí te las explico.</p>
+La entrada <a href="/en/diseno/diseno-web/tipos-de-tamanos-de-fuente-en-web-y-por-que-usar-rem/">Tipos de tamaños de fuente en web y por qué usar REM</a> se publicó primero en <a href="/en">Keruanima</a>.]]></description>
+		
+					<wfw:commentrss>/en/diseno/diseno-web/tipos-de-tamanos-de-fuente-en-web-y-por-que-usar-rem/feed/</wfw:commentrss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2219</post-id>	</item>
+	</channel>
+</rss>

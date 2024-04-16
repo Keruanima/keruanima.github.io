@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>opinión y crítica - Keruanima</title>
+	<atom:link href="/category/opinion-y-critica/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Creativo y diseñador digital</description>
+	<lastBuildDate>Mon, 15 Apr 2024 08:39:26 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2022/08/cropped-CompressJPEG.online_512x512-image-32x32.png</url>
+	<title>opinión y crítica - Keruanima</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">192130300</site>	<item>
+		<title>¿Por qué Reddit funciona?</title>
+		<link>/marketing-digital/por-que-reddit-funciona/</link>
+					<comments>/marketing-digital/por-que-reddit-funciona/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubDate>Mon, 15 Apr 2024 08:38:14 +0000</pubDate>
+				<category><![CDATA[marketing digital]]></category>
+		<category><![CDATA[opinión y crítica]]></category>
+		<category><![CDATA[buscadores]]></category>
+		<category><![CDATA[crítica]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[opinión]]></category>
+		<category><![CDATA[recomendaciones]]></category>
+		<category><![CDATA[reddit]]></category>
+		<guid isPermaLink="false">/?p=3402</guid>
+
+					<description><![CDATA[<p>Reddit se ha ido convirtiendo en una alternativa a google pese a no tratarse de un buscador, sus comunidades parecen ser el lugar idoneo para que muchos internautas encuentren lo que buscan.</p>
+La entrada <a href="/marketing-digital/por-que-reddit-funciona/">¿Por qué Reddit funciona?</a> se publicó primero en <a href="/">Keruanima</a>.]]></description>
+		
+					<wfw:commentRss>/marketing-digital/por-que-reddit-funciona/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3402</post-id>	</item>
+		<item>
+		<title>La ética de las IAs en el arte</title>
+		<link>/opinion-y-critica/la-etica-de-las-ias-en-el-arte/</link>
+					<comments>/opinion-y-critica/la-etica-de-las-ias-en-el-arte/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubDate>Thu, 17 Aug 2023 17:48:00 +0000</pubDate>
+				<category><![CDATA[Inteligencia artificial]]></category>
+		<category><![CDATA[opinión y crítica]]></category>
+		<category><![CDATA[IA]]></category>
+		<category><![CDATA[openAI]]></category>
+		<category><![CDATA[stable diffusion]]></category>
+		<guid isPermaLink="false">/?p=3267</guid>
+
+					<description><![CDATA[<p>Existe en la actualidad una discusión candente entre los artistas que ven amenazado su sector por culpa de estas inteligencias artificiales y los defensores que ven este avance tecnológico como una herramienta que da alas a su creatividad y a la creación de obras impresionantes sin tener la habilidad o recursos humanos necesarios para hacer [&#8230;]</p>
+La entrada <a href="/opinion-y-critica/la-etica-de-las-ias-en-el-arte/">La ética de las IAs en el arte</a> se publicó primero en <a href="/">Keruanima</a>.]]></description>
+		
+					<wfw:commentRss>/opinion-y-critica/la-etica-de-las-ias-en-el-arte/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3267</post-id>	</item>
+		<item>
+		<title>Por qué necesitamos que los buscadores funcionen con IA como chatGPT</title>
+		<link>/opinion-y-critica/por-que-necesitamos-que-los-buscadores-funcionen-con-ia-como-chatgpt/</link>
+					<comments>/opinion-y-critica/por-que-necesitamos-que-los-buscadores-funcionen-con-ia-como-chatgpt/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubDate>Thu, 16 Mar 2023 19:06:00 +0000</pubDate>
+				<category><![CDATA[opinión y crítica]]></category>
+		<category><![CDATA[bing]]></category>
+		<category><![CDATA[buscadores]]></category>
+		<category><![CDATA[chatGPT]]></category>
+		<category><![CDATA[IA]]></category>
+		<guid isPermaLink="false">/?p=2625</guid>
+
+					<description><![CDATA[<p>Descubre cómo las tecnologías de inteligencia artificial, como chatGPT, están transformando la búsqueda en línea y mejorando la experiencia del usuario. Aprende por qué Bing está apostando por esta tecnología y cómo las IAs pueden resolver el problema de la información irrelevante en los resultados de búsqueda. Sin embargo, también exploramos los desafíos que enfrentan los sitios web que generan contenido debido a la disminución en el tráfico generado por la implementación de estas tecnologías. Explora los beneficios y los desafíos de esta nueva era del internet y cómo puede afectar tu negocio en línea.</p>
+La entrada <a href="/opinion-y-critica/por-que-necesitamos-que-los-buscadores-funcionen-con-ia-como-chatgpt/">Por qué necesitamos que los buscadores funcionen con IA como chatGPT</a> se publicó primero en <a href="/">Keruanima</a>.]]></description>
+		
+					<wfw:commentRss>/opinion-y-critica/por-que-necesitamos-que-los-buscadores-funcionen-con-ia-como-chatgpt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2625</post-id>	</item>
+		<item>
+		<title>Cómo elegir la ruta correcta para el desarrollo de una app</title>
+		<link>/opinion-y-critica/como-elegir-la-ruta-correcta-para-el-desarrollo-de-una-app/</link>
+					<comments>/opinion-y-critica/como-elegir-la-ruta-correcta-para-el-desarrollo-de-una-app/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubDate>Sun, 12 Feb 2023 11:19:59 +0000</pubDate>
+				<category><![CDATA[opinión y crítica]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[desarrollo de apps]]></category>
+		<category><![CDATA[ios]]></category>
+		<category><![CDATA[kotlin]]></category>
+		<category><![CDATA[programación]]></category>
+		<category><![CDATA[python]]></category>
+		<category><![CDATA[web app]]></category>
+		<guid isPermaLink="false">/?p=2577</guid>
+
+					<description><![CDATA[<p>Hoy día tenemos muchas opciones para desarrollar una app, cuando se trata de escoger la mejor tecnología y lenguaje, pero existen opciones que se han consolidado como las mejores y más usadas a la hora de realizar un desarrollo y esto es así por las facilidades que brinda. Hoy te vengo a presentar 2 lenguajes [&#8230;]</p>
+La entrada <a href="/opinion-y-critica/como-elegir-la-ruta-correcta-para-el-desarrollo-de-una-app/">Cómo elegir la ruta correcta para el desarrollo de una app</a> se publicó primero en <a href="/">Keruanima</a>.]]></description>
+		
+					<wfw:commentRss>/opinion-y-critica/como-elegir-la-ruta-correcta-para-el-desarrollo-de-una-app/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2577</post-id>	</item>
+		<item>
+		<title>El diseñador vs canva &#8211; por qué diseñar es una inversión y no un gasto.</title>
+		<link>/diseno/el-disenador-vs-canva-por-que-disenar-es-una-inversion-y-no-un-gasto/</link>
+					<comments>/diseno/el-disenador-vs-canva-por-que-disenar-es-una-inversion-y-no-un-gasto/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubDate>Mon, 30 Jan 2023 15:34:37 +0000</pubDate>
+				<category><![CDATA[diseño]]></category>
+		<category><![CDATA[opinión y crítica]]></category>
+		<category><![CDATA[consejos]]></category>
+		<category><![CDATA[creatividad]]></category>
+		<category><![CDATA[crítica]]></category>
+		<category><![CDATA[opinión]]></category>
+		<category><![CDATA[recomendaciones]]></category>
+		<guid isPermaLink="false">/?p=2421</guid>
+
+					<description><![CDATA[<p>Estamos viviendo una epoca de cambios tecnológicos que afectan a muchos sectores, el del diseño especialmente, parece verse golpeado por el de plataformas como canva o incluso inteligencias artificiales que tratan de tomar el lugar de diseñadores e ilustradores. En este momento de nuestra historia es donde, más que nunca, es necesario sentarse y pensar [&#8230;]</p>
+La entrada <a href="/diseno/el-disenador-vs-canva-por-que-disenar-es-una-inversion-y-no-un-gasto/">El diseñador vs canva – por qué diseñar es una inversión y no un gasto.</a> se publicó primero en <a href="/">Keruanima</a>.]]></description>
+		
+					<wfw:commentRss>/diseno/el-disenador-vs-canva-por-que-disenar-es-una-inversion-y-no-un-gasto/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2421</post-id>	</item>
+		<item>
+		<title>Open AI chat revoluciona la inteligencia artifical</title>
+		<link>/ultimas-entradas/open-ai-chat-revoluciona-la-inteligencia-artifical/</link>
+					<comments>/ultimas-entradas/open-ai-chat-revoluciona-la-inteligencia-artifical/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubDate>Sat, 10 Dec 2022 15:52:24 +0000</pubDate>
+				<category><![CDATA[Inteligencia artificial]]></category>
+		<category><![CDATA[opinión y crítica]]></category>
+		<category><![CDATA[Últimas entradas]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[automatización]]></category>
+		<category><![CDATA[chat GPT]]></category>
+		<category><![CDATA[creatividad]]></category>
+		<category><![CDATA[crítica]]></category>
+		<category><![CDATA[IA]]></category>
+		<category><![CDATA[inteligencia artifical]]></category>
+		<category><![CDATA[openAI]]></category>
+		<category><![CDATA[opinión]]></category>
+		<category><![CDATA[recomendaciones]]></category>
+		<guid isPermaLink="false">/?p=1805</guid>
+
+					<description><![CDATA[<p>en este post te explico por qué chat GPT de OpenAI es una nueva inteligencia artificial que te va a cambiar la vida.</p>
+La entrada <a href="/ultimas-entradas/open-ai-chat-revoluciona-la-inteligencia-artifical/">Open AI chat revoluciona la inteligencia artifical</a> se publicó primero en <a href="/">Keruanima</a>.]]></description>
+		
+					<wfw:commentRss>/ultimas-entradas/open-ai-chat-revoluciona-la-inteligencia-artifical/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1805</post-id>	</item>
+		<item>
+		<title>Polémica: cine, sociedad y sirenas negras</title>
+		<link>/opinion-y-critica/polemica-cine-sociedad-y-sirenas-negras/</link>
+					<comments>/opinion-y-critica/polemica-cine-sociedad-y-sirenas-negras/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubDate>Wed, 14 Sep 2022 07:48:12 +0000</pubDate>
+				<category><![CDATA[opinión y crítica]]></category>
+		<guid isPermaLink="false">/?p=1348</guid>
+
+					<description><![CDATA[<p>Dejemos antes de empezar unas consideraciones: Y ahora sí, comienzo con la entrada Productoras y estudios No voy a mentir, sé que es muy probable que las grandes productoras y estudios sigan gobernadas por las mismas mentes que años atrás ya se vendían a lo que pedía la sociedad de la época y el dinero [&#8230;]</p>
+La entrada <a href="/opinion-y-critica/polemica-cine-sociedad-y-sirenas-negras/">Polémica: cine, sociedad y sirenas negras</a> se publicó primero en <a href="/">Keruanima</a>.]]></description>
+		
+					<wfw:commentRss>/opinion-y-critica/polemica-cine-sociedad-y-sirenas-negras/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1348</post-id>	</item>
+		<item>
+		<title>Las limitaciones de DALL·E y otras IAs creativas</title>
+		<link>/diseno/las-limitaciones-de-dall%c2%b7e-y-otras-ias-creativas/</link>
+					<comments>/diseno/las-limitaciones-de-dall%c2%b7e-y-otras-ias-creativas/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubDate>Thu, 08 Sep 2022 07:16:39 +0000</pubDate>
+				<category><![CDATA[diseño]]></category>
+		<category><![CDATA[Inteligencia artificial]]></category>
+		<category><![CDATA[opinión y crítica]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[arte]]></category>
+		<category><![CDATA[DALL·E]]></category>
+		<category><![CDATA[diseño de imágenes]]></category>
+		<category><![CDATA[IA]]></category>
+		<category><![CDATA[inteligencia artifical]]></category>
+		<category><![CDATA[redes neuronales]]></category>
+		<guid isPermaLink="false">/?p=1334</guid>
+
+					<description><![CDATA[<p>Recientemente, OpenAI me invito a probar su inteligencia artificial DALL·E con la que se pueden generar imágenes que nunca antes han existido simplemente dando indicaciones como si estuvieses haciendo una búsqueda en Google imágenes o explicando a un diseñador lo que quieres. Mi interes como diseñador y artista digital era saber hasta que punto esta [&#8230;]</p>
+La entrada <a href="/diseno/las-limitaciones-de-dall%c2%b7e-y-otras-ias-creativas/">Las limitaciones de DALL·E y otras IAs creativas</a> se publicó primero en <a href="/">Keruanima</a>.]]></description>
+		
+					<wfw:commentRss>/diseno/las-limitaciones-de-dall%c2%b7e-y-otras-ias-creativas/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1334</post-id>	</item>
+		<item>
+		<title>La información que se convierte en anuncio</title>
+		<link>/opinion-y-critica/el-lado-oscuro-del-seo-y-los-rich-snippets/</link>
+					<comments>/opinion-y-critica/el-lado-oscuro-del-seo-y-los-rich-snippets/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2022 12:57:47 +0000</pubDate>
+				<category><![CDATA[opinión y crítica]]></category>
+		<category><![CDATA[etica]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[resultados]]></category>
+		<category><![CDATA[seo]]></category>
+		<guid isPermaLink="false">/?p=1235</guid>
+
+					<description><![CDATA[<p>Google ha moldeado las reglas del SEO, el posicionamiento en internet, las empresas compiten por estar en las primeras posiciones, Google premia a los que publican a menudo y generan contenido relevante y útil, pero el proceso de posicionar cada sitio en el buscador lo deciden los robots de google y el criterio de estos [&#8230;]</p>
+La entrada <a href="/opinion-y-critica/el-lado-oscuro-del-seo-y-los-rich-snippets/">La información que se convierte en anuncio</a> se publicó primero en <a href="/">Keruanima</a>.]]></description>
+		
+					<wfw:commentRss>/opinion-y-critica/el-lado-oscuro-del-seo-y-los-rich-snippets/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1235</post-id>	</item>
+		<item>
+		<title>No te fíes de los masters de videojuegos online</title>
+		<link>/opinion-y-critica/cuidado-con-los-masters/</link>
+					<comments>/opinion-y-critica/cuidado-con-los-masters/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubDate>Fri, 19 Aug 2022 11:28:05 +0000</pubDate>
+				<category><![CDATA[opinión y crítica]]></category>
+		<category><![CDATA[anuncios]]></category>
+		<category><![CDATA[crítica]]></category>
+		<category><![CDATA[cursos online]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[opinión]]></category>
+		<category><![CDATA[timos]]></category>
+		<guid isPermaLink="false">/?p=1122</guid>
+
+					<description><![CDATA[<p>Hola! Hoy quería hablar de un tema peliagudo, si eres de los interesados en el desarrollo de videojuegos o algo similar seguro que te has dado con algún anuncio en Instagram u otra red social donde se te publicita un curso super mega pro, con profes modernos que usan palabras guay y que a primera [&#8230;]</p>
+La entrada <a href="/opinion-y-critica/cuidado-con-los-masters/">No te fíes de los masters de videojuegos online</a> se publicó primero en <a href="/">Keruanima</a>.]]></description>
+		
+					<wfw:commentRss>/opinion-y-critica/cuidado-con-los-masters/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1122</post-id>	</item>
+	</channel>
+</rss>

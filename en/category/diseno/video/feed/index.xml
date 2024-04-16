@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>video - Keruanima</title>
+	<atom:link href="/en/category/diseno/video/feed/" rel="self" type="application/rss+xml" />
+	<link>/en</link>
+	<description>Creativo y diseñador digital</description>
+	<lastbuilddate>Thu, 16 Mar 2023 14:26:37 +0000</lastbuilddate>
+	<language>en-GB</language>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2022/08/cropped-CompressJPEG.online_512x512-image-32x32.png</url>
+	<title>video - Keruanima</title>
+	<link>/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">192130300</site>	<item>
+		<title>Solución a «el archivo tiene un tipo de compresión no admitido»</title>
+		<link>/en/diseno/solucion-a-el-archivo-tiene-un-tipo-de-compresion-no-admitido/</link>
+					<comments>/en/diseno/solucion-a-el-archivo-tiene-un-tipo-de-compresion-no-admitido/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubdate>Thu, 16 Mar 2023 18:18:00 +0000</pubdate>
+				<category><![CDATA[diseño]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[consejos]]></category>
+		<category><![CDATA[recomendaciones]]></category>
+		<guid ispermalink="false">/?p=2635</guid>
+
+					<description><![CDATA[<p>Muchas veces me toca trabajar con materiales de vídeo que no son compatibles con premiere, en esta breve entrada quiero compartir la solución que finalmente me ha permitido trabajar con esos archivos y alguna alternativa más.</p>
+La entrada <a href="/en/diseno/solucion-a-el-archivo-tiene-un-tipo-de-compresion-no-admitido/">Solución a «el archivo tiene un tipo de compresión no admitido»</a> se publicó primero en <a href="/en">Keruanima</a>.]]></description>
+		
+					<wfw:commentrss>/en/diseno/solucion-a-el-archivo-tiene-un-tipo-de-compresion-no-admitido/feed/</wfw:commentrss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2635</post-id>	</item>
+		<item>
+		<title>6 sitios web para descargar música cc0 para proyectos comerciales</title>
+		<link>/en/diseno/15-sitios-web-para-descargar-musica-cc0-para-proyectos-comerciales/</link>
+					<comments>/en/diseno/15-sitios-web-para-descargar-musica-cc0-para-proyectos-comerciales/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubdate>Mon, 07 Nov 2022 15:08:29 +0000</pubdate>
+				<category><![CDATA[diseño]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[cc0]]></category>
+		<category><![CDATA[creadores]]></category>
+		<category><![CDATA[listas]]></category>
+		<category><![CDATA[música]]></category>
+		<category><![CDATA[recomendaciones]]></category>
+		<category><![CDATA[recursos]]></category>
+		<category><![CDATA[tops]]></category>
+		<guid ispermalink="false">/?p=1396</guid>
+
+					<description><![CDATA[<p>Hola, como de vez en cuando requiero de música para mis proyectos personales, tengo una lista de webs que uso como bibliotecas de música creative commons de donde sacar música gratuita. Esta lista son sitios web que de verdad dan opciones gratuitas para uso comercial, dado que he podido comprobar que muchas de estas webs [&#8230;]</p>
+La entrada <a href="/en/diseno/15-sitios-web-para-descargar-musica-cc0-para-proyectos-comerciales/">6 sitios web para descargar música cc0 para proyectos comerciales</a> se publicó primero en <a href="/en">Keruanima</a>.]]></description>
+		
+					<wfw:commentrss>/en/diseno/15-sitios-web-para-descargar-musica-cc0-para-proyectos-comerciales/feed/</wfw:commentrss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1396</post-id>	</item>
+	</channel>
+</rss>

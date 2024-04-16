@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Las limitaciones de DALL·E y otras IAs creativas	</title>
+	<atom:link href="/en/diseno/las-limitaciones-de-dall%C2%B7e-y-otras-ias-creativas/feed/" rel="self" type="application/rss+xml" />
+	<link>/en/diseno/las-limitaciones-de-dall%c2%b7e-y-otras-ias-creativas/</link>
+	<description>Creativo y diseñador digital</description>
+	<lastbuilddate>Sat, 10 Dec 2022 17:45:47 +0000</lastbuilddate>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
+	
+</channel>
+</rss>

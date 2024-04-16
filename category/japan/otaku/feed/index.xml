@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>otaku - Keruanima</title>
+	<atom:link href="/category/japan/otaku/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Creativo y diseñador digital</description>
+	<lastBuildDate>Fri, 26 Aug 2022 10:00:20 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2022/08/cropped-CompressJPEG.online_512x512-image-32x32.png</url>
+	<title>otaku - Keruanima</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">192130300</site>	<item>
+		<title>TOP10 de animes que te convertirán en OTAKU</title>
+		<link>/japan/otaku/top10-de-animes-que-te-convertiran-en-otaku/</link>
+					<comments>/japan/otaku/top10-de-animes-que-te-convertiran-en-otaku/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubDate>Fri, 26 Aug 2022 10:00:19 +0000</pubDate>
+				<category><![CDATA[otaku]]></category>
+		<category><![CDATA[anime]]></category>
+		<category><![CDATA[mejores animes]]></category>
+		<category><![CDATA[recomendaciones]]></category>
+		<category><![CDATA[top10]]></category>
+		<guid isPermaLink="false">/?p=1252</guid>
+
+					<description><![CDATA[<p>Este es un post recopilatorio de 10 animes que como buen Otaku Senior recomiendo encarecidamente que veáis incluso si no sois muy fan del anime. Por supuesto, como todos los tops esta basado en la opinión personal, pero dentro de eso estoy tratando de filtrar lo mejor que puedo. No las numero porque no estan [&#8230;]</p>
+La entrada <a href="/japan/otaku/top10-de-animes-que-te-convertiran-en-otaku/">TOP10 de animes que te convertirán en OTAKU</a> se publicó primero en <a href="/">Keruanima</a>.]]></description>
+		
+					<wfw:commentRss>/japan/otaku/top10-de-animes-que-te-convertiran-en-otaku/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1252</post-id>	</item>
+	</channel>
+</rss>

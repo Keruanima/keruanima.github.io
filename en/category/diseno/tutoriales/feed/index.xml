@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Tutoriales - Keruanima</title>
+	<atom:link href="/en/category/diseno/tutoriales/feed/" rel="self" type="application/rss+xml" />
+	<link>/en</link>
+	<description>Creativo y diseñador digital</description>
+	<lastbuilddate>Thu, 16 Mar 2023 14:26:37 +0000</lastbuilddate>
+	<language>en-GB</language>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2022/08/cropped-CompressJPEG.online_512x512-image-32x32.png</url>
+	<title>Tutoriales - Keruanima</title>
+	<link>/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">192130300</site>	<item>
+		<title>Solución a «el archivo tiene un tipo de compresión no admitido»</title>
+		<link>/en/diseno/solucion-a-el-archivo-tiene-un-tipo-de-compresion-no-admitido/</link>
+					<comments>/en/diseno/solucion-a-el-archivo-tiene-un-tipo-de-compresion-no-admitido/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubdate>Thu, 16 Mar 2023 18:18:00 +0000</pubdate>
+				<category><![CDATA[diseño]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[consejos]]></category>
+		<category><![CDATA[recomendaciones]]></category>
+		<guid ispermalink="false">/?p=2635</guid>
+
+					<description><![CDATA[<p>Muchas veces me toca trabajar con materiales de vídeo que no son compatibles con premiere, en esta breve entrada quiero compartir la solución que finalmente me ha permitido trabajar con esos archivos y alguna alternativa más.</p>
+La entrada <a href="/en/diseno/solucion-a-el-archivo-tiene-un-tipo-de-compresion-no-admitido/">Solución a «el archivo tiene un tipo de compresión no admitido»</a> se publicó primero en <a href="/en">Keruanima</a>.]]></description>
+		
+					<wfw:commentrss>/en/diseno/solucion-a-el-archivo-tiene-un-tipo-de-compresion-no-admitido/feed/</wfw:commentrss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2635</post-id>	</item>
+		<item>
+		<title>truco de photoshop: como poner imagen sobre superficie</title>
+		<link>/en/diseno/truco-de-photoshop-como-poner-imagen-sobre-superficie/</link>
+					<comments>/en/diseno/truco-de-photoshop-como-poner-imagen-sobre-superficie/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubdate>Wed, 16 Nov 2022 10:24:34 +0000</pubdate>
+				<category><![CDATA[diseño]]></category>
+		<category><![CDATA[Tutoriales]]></category>
+		<category><![CDATA[cartel]]></category>
+		<category><![CDATA[colocar imagen sobre superficie]]></category>
+		<category><![CDATA[mockup]]></category>
+		<category><![CDATA[pared]]></category>
+		<category><![CDATA[photoshop]]></category>
+		<category><![CDATA[producto]]></category>
+		<category><![CDATA[punto de fuga]]></category>
+		<category><![CDATA[tutoriales]]></category>
+		<guid ispermalink="false">/?p=1406</guid>
+
+					<description><![CDATA[<p>¿Tienes que poner una imagen sobre una superficie pero lo que haces no queda bien? Te enseño la forma correcta de hacerlo muy rápido.</p>
+La entrada <a href="/en/diseno/truco-de-photoshop-como-poner-imagen-sobre-superficie/">truco de photoshop: como poner imagen sobre superficie</a> se publicó primero en <a href="/en">Keruanima</a>.]]></description>
+		
+					<wfw:commentrss>/en/diseno/truco-de-photoshop-como-poner-imagen-sobre-superficie/feed/</wfw:commentrss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1406</post-id>	</item>
+	</channel>
+</rss>

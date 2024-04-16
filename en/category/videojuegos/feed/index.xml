@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>videojuegos - Keruanima</title>
+	<atom:link href="/en/category/videojuegos/feed/" rel="self" type="application/rss+xml" />
+	<link>/en</link>
+	<description>Creativo y diseñador digital</description>
+	<lastbuilddate>Mon, 08 Aug 2022 09:36:09 +0000</lastbuilddate>
+	<language>en-GB</language>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2022/08/cropped-CompressJPEG.online_512x512-image-32x32.png</url>
+	<title>videojuegos - Keruanima</title>
+	<link>/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">192130300</site>	<item>
+		<title>Fingers vs Zombies, historia de un desarrollo en solitario.</title>
+		<link>/en/mis-proyectos/fingers-vs-zombies-historia-de-un-desarrollo-en-solitario/</link>
+					<comments>/en/mis-proyectos/fingers-vs-zombies-historia-de-un-desarrollo-en-solitario/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubdate>Wed, 06 Dec 2017 09:30:22 +0000</pubdate>
+				<category><![CDATA[Mis Proyectos]]></category>
+		<category><![CDATA[videojuegos]]></category>
+		<category><![CDATA[desarrollo]]></category>
+		<category><![CDATA[lowpoly]]></category>
+		<category><![CDATA[modelado 3D]]></category>
+		<category><![CDATA[unity]]></category>
+		<guid ispermalink="false">/?p=156</guid>
+
+					<description><![CDATA[<p>Hola, esta entrada quiere resumir mi experiencia en el reto que me autoimpuse de realizar un juego original para android en el menor tiempo posible. El objetivo inicial era realizar en una semana pero al final tuve que usar cerca de 3 semanas para acabarlo principalmente debido a cambios que quise introducir en la dificultad, [&#8230;]</p>
+La entrada <a href="/en/mis-proyectos/fingers-vs-zombies-historia-de-un-desarrollo-en-solitario/">Fingers vs Zombies, historia de un desarrollo en solitario.</a> se publicó primero en <a href="/en">Keruanima</a>.]]></description>
+		
+					<wfw:commentrss>/en/mis-proyectos/fingers-vs-zombies-historia-de-un-desarrollo-en-solitario/feed/</wfw:commentrss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">156</post-id>	</item>
+	</channel>
+</rss>

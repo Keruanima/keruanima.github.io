@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>viajes - Keruanima</title>
+	<atom:link href="/category/offtopic/viajes/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Creativo y diseñador digital</description>
+	<lastBuildDate>Mon, 17 Apr 2023 09:17:04 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2022/08/cropped-CompressJPEG.online_512x512-image-32x32.png</url>
+	<title>viajes - Keruanima</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">192130300</site>	<item>
+		<title>Descubre la efectiva estrategia de marketing turístico en Osaka: sella tarjetas en los castillos y completa una ilustración conmemorativa</title>
+		<link>/japan/descubre-la-efectiva-estrategia-de-marketing-turistico-en-osaka-sella-tarjetas-en-los-castillos-y-completa-una-ilustracion-conmemorativa/</link>
+					<comments>/japan/descubre-la-efectiva-estrategia-de-marketing-turistico-en-osaka-sella-tarjetas-en-los-castillos-y-completa-una-ilustracion-conmemorativa/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubDate>Tue, 18 Apr 2023 19:10:00 +0000</pubDate>
+				<category><![CDATA[diseño]]></category>
+		<category><![CDATA[Japón]]></category>
+		<category><![CDATA[marketing digital]]></category>
+		<category><![CDATA[viajes]]></category>
+		<category><![CDATA[consejos]]></category>
+		<category><![CDATA[creatividad]]></category>
+		<category><![CDATA[experiencia personal]]></category>
+		<category><![CDATA[osaka]]></category>
+		<category><![CDATA[recomendaciones]]></category>
+		<guid isPermaLink="false">/?p=2695</guid>
+
+					<description><![CDATA[<p>Descubre en este post una efectiva estrategia de marketing turístico en Osaka que utiliza tarjetas selladas en los castillos para completar una ilustración conmemorativa. Esta sencilla actividad no solo promueve la visita a edificaciones históricas de la ciudad, sino que también regala un elemento de merchandising DIY que los visitantes pueden llevarse como recuerdo. ¡No te pierdas esta lección de promoción turística en Japón!</p>
+La entrada <a href="/japan/descubre-la-efectiva-estrategia-de-marketing-turistico-en-osaka-sella-tarjetas-en-los-castillos-y-completa-una-ilustracion-conmemorativa/">Descubre la efectiva estrategia de marketing turístico en Osaka: sella tarjetas en los castillos y completa una ilustración conmemorativa</a> se publicó primero en <a href="/">Keruanima</a>.]]></description>
+		
+					<wfw:commentRss>/japan/descubre-la-efectiva-estrategia-de-marketing-turistico-en-osaka-sella-tarjetas-en-los-castillos-y-completa-una-ilustracion-conmemorativa/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2695</post-id>	</item>
+		<item>
+		<title>Viajar a París &#8211; experiencia y costo</title>
+		<link>/offtopic/viajes/viajar-a-paris-experiencia-y-costo/</link>
+					<comments>/offtopic/viajes/viajar-a-paris-experiencia-y-costo/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubDate>Sun, 29 Jan 2023 22:21:45 +0000</pubDate>
+				<category><![CDATA[offtopic]]></category>
+		<category><![CDATA[viajes]]></category>
+		<category><![CDATA[compañías aereas]]></category>
+		<category><![CDATA[experiencia personal]]></category>
+		<category><![CDATA[paris]]></category>
+		<category><![CDATA[presupuesto]]></category>
+		<category><![CDATA[sobre mi]]></category>
+		<category><![CDATA[turismo]]></category>
+		<category><![CDATA[turísmo]]></category>
+		<category><![CDATA[viajar]]></category>
+		<guid isPermaLink="false">/?p=2367</guid>
+
+					<description><![CDATA[<p>Hola, quería ir relatando a modo de cuaderno de bitacora la experiencia de viajar (como turista de presupuesto moderado) a Francia. Voy a ir directo al grano y hablar de cifras sin tapujos para que quien quiera se haga una idea. Estas cifras corresponden a una experiencia vivida en el año 2023 por lo que [&#8230;]</p>
+La entrada <a href="/offtopic/viajes/viajar-a-paris-experiencia-y-costo/">Viajar a París – experiencia y costo</a> se publicó primero en <a href="/">Keruanima</a>.]]></description>
+		
+					<wfw:commentRss>/offtopic/viajes/viajar-a-paris-experiencia-y-costo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2367</post-id>	</item>
+	</channel>
+</rss>

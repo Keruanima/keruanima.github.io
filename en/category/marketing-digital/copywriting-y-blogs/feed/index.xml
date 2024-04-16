@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>copywriting y blogs - Keruanima</title>
+	<atom:link href="/en/category/marketing-digital/copywriting-y-blogs/feed/" rel="self" type="application/rss+xml" />
+	<link>/en</link>
+	<description>Creativo y diseñador digital</description>
+	<lastbuilddate>Thu, 19 Jan 2023 10:54:58 +0000</lastbuilddate>
+	<language>en-GB</language>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2022/08/cropped-CompressJPEG.online_512x512-image-32x32.png</url>
+	<title>copywriting y blogs - Keruanima</title>
+	<link>/en</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">192130300</site>	<item>
+		<title>6 sitios para descargar imágenes gratis para tus proyectos</title>
+		<link>/en/diseno/diseno-web/6-sitios-para-descargar-imagenes-gratis-para-tus-proyectos/</link>
+					<comments>/en/diseno/diseno-web/6-sitios-para-descargar-imagenes-gratis-para-tus-proyectos/#respond</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubdate>Fri, 13 Jan 2023 17:54:00 +0000</pubdate>
+				<category><![CDATA[copywriting y blogs]]></category>
+		<category><![CDATA[diseño]]></category>
+		<category><![CDATA[diseño web]]></category>
+		<category><![CDATA[bibliotecas de imágenes]]></category>
+		<category><![CDATA[gratis]]></category>
+		<category><![CDATA[imágenes sin copyright]]></category>
+		<category><![CDATA[recursos]]></category>
+		<category><![CDATA[recursos gráficos]]></category>
+		<guid ispermalink="false">/?p=2360</guid>
+
+					<description><![CDATA[<p>Entrada honesta donde descubriras 6 sitios desde los que descargar imágenes gratis cc0 sin necesidad atribución incluso para proyectos comerciales.</p>
+La entrada <a href="/en/diseno/diseno-web/6-sitios-para-descargar-imagenes-gratis-para-tus-proyectos/">6 sitios para descargar imágenes gratis para tus proyectos</a> se publicó primero en <a href="/en">Keruanima</a>.]]></description>
+		
+					<wfw:commentrss>/en/diseno/diseno-web/6-sitios-para-descargar-imagenes-gratis-para-tus-proyectos/feed/</wfw:commentrss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2360</post-id>	</item>
+		<item>
+		<title>Tipos de artículos en internet</title>
+		<link>/en/marketing-digital/tipos-de-articulos-en-internet/</link>
+					<comments>/en/marketing-digital/tipos-de-articulos-en-internet/#comments</comments>
+		
+		<dc:creator><![CDATA[Keruanima]]></dc:creator>
+		<pubdate>Tue, 03 Jan 2023 15:17:00 +0000</pubdate>
+				<category><![CDATA[copywriting y blogs]]></category>
+		<category><![CDATA[marketing digital]]></category>
+		<category><![CDATA[blogs]]></category>
+		<category><![CDATA[copywriting]]></category>
+		<category><![CDATA[divulgación]]></category>
+		<category><![CDATA[tipos de artículos]]></category>
+		<guid ispermalink="false">/?p=2261</guid>
+
+					<description><![CDATA[<p>si te dedicas al copywriting y no conoces todos los tipos de artículos que existen te sugiero pasarte por este post donde los explico fácil.</p>
+La entrada <a href="/en/marketing-digital/tipos-de-articulos-en-internet/">Tipos de artículos en internet</a> se publicó primero en <a href="/en">Keruanima</a>.]]></description>
+		
+					<wfw:commentrss>/en/marketing-digital/tipos-de-articulos-en-internet/feed/</wfw:commentrss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2261</post-id>	</item>
+	</channel>
+</rss>
